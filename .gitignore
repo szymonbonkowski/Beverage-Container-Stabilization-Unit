@@ -1,0 +1,23 @@
+# Compiled Binaries & Executables
+*.exe
+*.dll
+*.obj
+*.lib
+*.a
+*.so
+*.dylib
+
+# CMake Artifacts
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+
+# IDE Settings
+.idea/
+
+# System Files
+Thumbs.db
+.DS_Store
